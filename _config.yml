@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            杨绮的博客
+description:      欢迎
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,9 +9,9 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           杨绮
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            ""
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
